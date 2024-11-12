@@ -7,3 +7,12 @@ body {
     background-color: blue;
     color: rgb(41, 27, 161);
 }
+a {
+    color: aliceblue;
+}
+a :visited {
+    color: lightgray;
+}
+a :hover {
+    color: #eee
+}
